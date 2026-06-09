@@ -39,29 +39,6 @@
 
 ---
 
-## 🗂️ Project Structure
-
-app/src/main/java/com/reshmenammapride/
-├── activities/
-│   ├── SplashActivity.kt
-│   ├── HomeActivity.kt
-│   ├── AddBatchActivity.kt
-│   ├── MonitoringActivity.kt
-│   └── HistoryActivity.kt
-├── database/
-│   ├── AppDatabase.kt
-│   ├── BatchDao.kt
-│   └── ClimateRecordDao.kt
-├── models/
-│   ├── Batch.kt
-│   └── ClimateRecord.kt
-├── adapters/
-│   └── HistoryAdapter.kt
-├── utils/
-│   └── SmartAdviceEngine.kt
-└── notifications/
-    └── NotificationHelper.kt
----
 
 ## 👨‍💻 Tech Stack
 - **Language**: Kotlin
